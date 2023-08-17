@@ -1,6 +1,6 @@
 # What is This?
 
-![tentacle preview](preview.gif)
+![tentacle preview](https://github.com/BenMakesGames/OctopusTentacles/blob/1a3bda385f55ea5b2ea1d2c23a8e85b0a0f8889e/Preview.gif)
 
 A simple Unity project with some kind of tentacled octopus. Includes:
 
